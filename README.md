@@ -1,7 +1,7 @@
 ![La montagne](http://informations-documents.com/coloriages.dessins/coloriages/coloriage_montagne4.jpg)
-### Grenoble
+                                            ## Team Grenoble
 
-## Clone notre repo et c'est parti !
+### Clone notre repo et c'est parti !
 
 
 ##  
