@@ -1,5 +1,5 @@
 ![La montagne](http://informations-documents.com/coloriages.dessins/coloriages/coloriage_montagne4.jpg)
-
+### Grenoble
 
 ## Clone notre repo et c'est parti !
 
@@ -8,7 +8,7 @@
 
 
 
-### La TEAM    ![team](https://media.giphy.com/media/3rgXBrLlRs4ZlpnVDO/giphy.mp4)
+### La TEAM    !
 
 - Maxime
 - Quentin
