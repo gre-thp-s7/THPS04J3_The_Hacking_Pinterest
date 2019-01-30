@@ -3,11 +3,13 @@
 
 ### Clone notre repo et c'est parti !
 
+- Postionne toi dans le dossier,
+- rails db:migrate:status # Tu verras que les tables sont créées,
+- rails db:migrate # Ça migre au calme,
+- rails db:migrate:status # Check de la migration,
+- Balade toi dans la BDD !
 
-
-
-
-### La TEAM    !
+### La TEAM !
 
 - Maxime
 - Quentin
