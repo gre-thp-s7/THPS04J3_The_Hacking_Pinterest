@@ -8,7 +8,7 @@
 
 
 
-### La TEAM    ![Team](https://media.giphy.com/media/3rgXBrLlRs4ZlpnVDO/giphy.gif)
+### La TEAM    ![](https://media.giphy.com/media/3rgXBrLlRs4ZlpnVDO/giphy.gif)
 
 - Maxime
 - Quentin
