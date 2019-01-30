@@ -1,24 +1,18 @@
-# README
+![La montagne](http://informations-documents.com/coloriages.dessins/coloriages/coloriage_montagne4.jpg)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+## Clone notre repo et c'est parti !
 
-* Ruby version
 
-* System dependencies
+##  
 
-* Configuration
 
-* Database creation
 
-* Database initialization
+### La TEAM    ![Team](https://media.giphy.com/media/3rgXBrLlRs4ZlpnVDO/giphy.gif)
 
-* How to run the test suite
+- Maxime
+- Quentin
+- Yannis
+- Charles
+- Guillaume
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
